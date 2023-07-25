@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Hoodie",
+      "description": "Cool hoodie",
+      "imgSrc": "/images/hoodie.png",
+      "link": "/hoodie"
+    },
+    {
+      "title": "T-shirt",
+      "description": "Cool t-shirt",
+      "imgSrc": "/images/t-shirt.png",
+      "link": "/t-shirt"
+    }
+  ]
+  
